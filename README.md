@@ -1,14 +1,16 @@
-## 👋 Salom, men Ixlosbek!
+## 👋 Hi, I'm Ixlosbek!
 
-Men Backend Developer bo‘lib ishlayman va quyidagi texnologiyalar bilan ishlayman:
+I'm a Backend Developer, born on December 10, 2004, in Khorezm. I don't just enjoy writing code — I love solving problems in the most efficient and practical ways. I'm also a strong communicator and easily build good relationships with others.
 
-### 🛠️ Skillarim:
+### 🛠️ Skils:
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" height="40"/>/>
+          
 </p>
 
 ### 📊 Statistikam:
