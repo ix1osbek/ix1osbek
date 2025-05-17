@@ -26,9 +26,6 @@ I'm a Backend Developer, born on December 10, 2004, in Khorezm. I don't just enj
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg" width="40" height="40"/>   
 </p>
 
-### 📊 Statistics:
-![Ixlosbek's GitHub stats](https://github-readme-stats.vercel.app/api?username=ix1osbek&show_icons=true&theme=radical)
-
 ### 📫 Contact:
 - 📧 bekerkinov2004@gmail.com
 - 💬 [Telegram](https://t.me/ix1osbek)
