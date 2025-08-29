@@ -34,9 +34,19 @@ I'm a Backend Developer, born on December 10, 2004, in Khorezm. I don't just enj
 
 ## 📊 GitHub Stats & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ix1osbek&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ix1osbek&layout=compact)
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ix1osbek&theme=react-dark)
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ix1osbek&layout=compact)
-![Quote](https://quotes-github-readme.vercel.app/api?type=dev)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ix1osbek&theme=dark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ix1osbek&show_icons=true&theme=radical" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ix1osbek&layout=compact&theme=radical" width="350"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ix1osbek&theme=react-dark" width="700"/>
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=dev" width="700"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ix1osbek&theme=dark" width="700"/>
+</div>
