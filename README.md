@@ -37,6 +37,6 @@ I'm a Backend Developer, born on December 10, 2004, in Khorezm. I don't just enj
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ix1osbek&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ix1osbek&layout=compact)
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ix1osbek&theme=react-dark)
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ix1osbek&layout=compact)
 ![Quote](https://quotes-github-readme.vercel.app/api?type=dev)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ix1osbek&theme=dark)
