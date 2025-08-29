@@ -2,9 +2,8 @@
 
 I'm a Backend Developer, born on December 10, 2004, in Khorezm. I don't just enjoy writing code — I love solving problems in the most efficient and practical ways. I'm also a strong communicator and easily build good relationships with others.
 
-### 🛠️ Skils:
+### 🛠️ Skills:
 <p>
- 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
@@ -27,6 +26,17 @@ I'm a Backend Developer, born on December 10, 2004, in Khorezm. I don't just enj
 </p>
 
 ### 📫 Contact:
-- 📧 bekerkinov2004@gmail.com
-- 💬 [Telegram](https://t.me/ix1osbek)
-- 💻 [X](https://x.com/erk1nov_i)
+- 📧 ixlosbekerkinov.work@gmail.com
+- 💬 [Telegram](https://t.me/ixlosware)
+- 💻 [website](https://ixlosbek.uz)
+
+---
+
+## 📊 GitHub Stats & Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ix1osbek&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ix1osbek&layout=compact)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ix1osbek&theme=react-dark)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact)
+![Quote](https://quotes-github-readme.vercel.app/api?type=dev)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ix1osbek&theme=dark)
