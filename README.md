@@ -3,7 +3,7 @@
 
 ### 📫 Contact:
 - 📧 ixlosbekerkinov.work@gmail.com
-- 💻 [website](https://ixlosbek.uz)
+- 💻 [ixlosbek.uz](https://ixlosbek.uz)
 
 
 
