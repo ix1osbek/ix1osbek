@@ -2,8 +2,8 @@
 
 
 ### 📫 Contact:
-- 📧 me@ixlosbek.uz
-- 💻 [ixlosbek.uz](https://ixlosbek.uz)
+- 📧 me@ikhlas.men
+- 💻 [ikhlas.men](https://ikhlas.men)
 - 📈 [LinkedIn](https://www.linkedin.com/in/ix1osbek/)
 
 
